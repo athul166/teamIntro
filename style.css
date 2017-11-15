@@ -1,0 +1,50 @@
+.box1{
+  background-image: url('./teamIntroPhotos/filteredidea.jpg') ;
+  height:100vh;
+  width: 100%;
+  background-size: cover;
+  background-attachment: fixed;
+}
+
+.box2{
+  background-image: url('./teamIntroPhotos/home-section1.jpg');
+  height:100vh;
+  width: 100%;
+  background-attachment: fixed;
+}
+
+.box3{
+  background-image: url('./teamIntroPhotos/home-section2.jpg');
+  height:100vh;
+  width: 100%;
+  background-size: cover;
+  background-attachment: fixed;
+}
+
+
+.Appbar{
+  position:fixed;
+ left:0px;
+ top:0px;
+ height:30px;
+ width:100%;
+ background:#999;
+ z-index: 5;
+}
+.appBarMenuItem{
+  font-family: 'Indie Flower', cursive !important;
+  font-size: 20px;
+}
+
+.appBarMenuItem:hover{
+  color:#F76C12 !important;
+}
+
+.caption{
+  font-size:25px;
+}
+
+.captionPartTwo{
+  font-size:35px;
+  color:#F76C12 !important;
+}
